@@ -11,6 +11,7 @@ import SwiftUI
 struct AppSwiftUIBFApp: App {
     var body: some Scene {
         WindowGroup {
+            //Defini a primeira tela a ser redenrizada e apresentada para o usuario
             ContentView()
         }
     }
