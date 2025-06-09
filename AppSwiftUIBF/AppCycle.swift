@@ -16,7 +16,6 @@ struct AppCycle: View {
     var body: some View {
         NavigationStack{
             NavigationLink("Próxima", destination: AppFormView())
-            
                 .onAppear(){
                     print("Sou o segundo")
                 }

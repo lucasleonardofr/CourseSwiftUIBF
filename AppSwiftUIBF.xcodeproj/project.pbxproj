@@ -6,18 +6,7 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		EF2B4D032DF119570091143B /* AppScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF2B4D022DF119570091143B /* AppScrollView.swift */; };
-		EF2B4D052DF123200091143B /* AppNavigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF2B4D042DF123200091143B /* AppNavigation.swift */; };
-		EF2B4D072DF125EB0091143B /* AppFormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF2B4D062DF125EB0091143B /* AppFormView.swift */; };
-		EF2B4D092DF128890091143B /* AppCycle.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF2B4D082DF128890091143B /* AppCycle.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
-		EF2B4D022DF119570091143B /* AppScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppScrollView.swift; sourceTree = "<group>"; };
-		EF2B4D042DF123200091143B /* AppNavigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppNavigation.swift; sourceTree = "<group>"; };
-		EF2B4D062DF125EB0091143B /* AppFormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppFormView.swift; sourceTree = "<group>"; };
-		EF2B4D082DF128890091143B /* AppCycle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppCycle.swift; sourceTree = "<group>"; };
 		EF7AD0502DE08E8600F809AA /* AppSwiftUIBF.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppSwiftUIBF.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -43,10 +32,6 @@
 		EF7AD0472DE08E8600F809AA = {
 			isa = PBXGroup;
 			children = (
-				EF2B4D022DF119570091143B /* AppScrollView.swift */,
-				EF2B4D042DF123200091143B /* AppNavigation.swift */,
-				EF2B4D062DF125EB0091143B /* AppFormView.swift */,
-				EF2B4D082DF128890091143B /* AppCycle.swift */,
 				EF7AD0522DE08E8600F809AA /* AppSwiftUIBF */,
 				EF7AD0512DE08E8600F809AA /* Products */,
 			);
@@ -134,10 +119,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EF2B4D032DF119570091143B /* AppScrollView.swift in Sources */,
-				EF2B4D072DF125EB0091143B /* AppFormView.swift in Sources */,
-				EF2B4D052DF123200091143B /* AppNavigation.swift in Sources */,
-				EF2B4D092DF128890091143B /* AppCycle.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
